@@ -1,0 +1,10 @@
+hash: d8ff813bc93cfab99d3888f1b2fe5b3f04452c63cb56b16f86da22f7cb0cc72f
+updated: 2017-06-09T13:46:22.393722479+07:00
+imports:
+- name: github.com/julienschmidt/httprouter
+  version: 8c199fb6259ffc1af525cc3ad52ee60ba8359669
+- name: github.com/lib/pq
+  version: 4dd446efc17690bc53e154025146f73203b18309
+  subpackages:
+  - oid
+testImports: []
